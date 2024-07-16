@@ -1,2 +1,2 @@
 # Simulation
-This repository contains the physics simulation tests.
+This branch is for Computational Quantum Simulation.
