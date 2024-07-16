@@ -1,2 +1,5 @@
 # Simulation
-This branch is for Computational Quantum Simulation.
+This branch is for Computational Quantum Simulation. 
+
+## Ising Model
+The basic introduction about Ising Model can be reviewed in my blog [Study note about Ising model](https://huijiaoluo.github.io/2024/07/16/QuantumNote1/).
